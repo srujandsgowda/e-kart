@@ -8,7 +8,7 @@ body{
     width: 1000px;
     background-color: lightcyan;
     filter: 5px;
-    background-image: url(kart.png);
+    background-image: url(/kart.png);
 }
 #main{
     height: 50px;
